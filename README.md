@@ -1,4 +1,4 @@
-<h3 align="center">GitBot</h3>
+<h1 align="center">GitBot</h1>
 
   <p align="center">
     Simple github manager for cli and telegram 
