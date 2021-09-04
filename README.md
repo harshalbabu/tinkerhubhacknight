@@ -31,6 +31,11 @@ This is an example of how to list things you need to use the software and how to
    python gitBot.py
    ```
 
+### Using the telegram bot
+
+ You can Use it by messaging<a href="https://t.me/GITtheTelegramBot">Gitthetelegrambot</a>
+
+
 ## Contributers
 * [Amjad CP](https://github.com/amjadcp)
 * [Harshal Babu T K N](https://github.com/harshalbabu)
