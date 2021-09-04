@@ -11,7 +11,9 @@ To get a local copy up and running follow these simple example steps.
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Python](https://www.python.org/)
+* [Flask](https://flask.palletsprojects.com/)
 * [Replit](https://replit.com/)
+* [UptimeRobot](https://uptimerobot.com/)
 
 ### Prerequisites
 
@@ -39,8 +41,13 @@ This is an example of how to list things you need to use the software and how to
 
 ### Using the telegram bot
 
- You can Use it by messaging <a href="https://t.me/GITtheTelegramBot">Gitthetelegrambot</a>
-
+1. <a href="https://t.me/GITtheTelegramBot">Click here</a> to use 'GittheTelegramBot'
+2. or search 'GittheTelegramBot'
+3. Example messages 
+   - username:<github username>
+   - password:<personal access token>
+   - mkdir <Name for repository>
+   - ls
 
 ## Contributers
 * [Amjad CP](https://github.com/amjadcp)
