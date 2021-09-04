@@ -1,6 +1,20 @@
 # tinkerhubhacknight
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+### CLI Example
+---
+<img src="IMG-20210904-WA0155.jpg" alt="CLI Example">
+
+<br>
+<br>
+
+### Telegram Example
+---
+<img src="IMG-20210904-WA0151.jpg" alt="telegram Example">
+
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
