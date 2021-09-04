@@ -15,7 +15,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rijfas/saturday-hack-night-dialogflow.git
+   git clone https://github.com/harshalbabu/tinkerhubhacknight.git
    ```
 3. Install required packages
    ```sh
@@ -26,9 +26,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
- Run alpha.py
+ Run gitBot.py
    ```sh
-   python alpha.py
+   python gitBot.py
    ```
 
 ## Contributers
