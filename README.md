@@ -1,4 +1,8 @@
+<h3 align="center">GitBot</h3>
 
+  <p align="center">
+    Simple github manager for cli and telegram 
+    <br />
 
 
 <!-- ABOUT THE PROJECT -->
