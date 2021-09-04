@@ -4,23 +4,22 @@ from pprint import pprint
 from random import randint
 import base64
 
-#username = 'exploreGithub'
-#passwd = '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'
-g = Github()
-#user = g.get_user()
+username = 'exploreGithub'
+passwd = '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'
 
-#def view_repo():
-#    repos = user.get_repos()
 
-#    for repo in repos:
-#        print(repo.name)
+def view_repo():
+    repos = user.get_repos()
 
-#def create_repo():
-#   try:
-#        name = input('Give repo name :')
-#        repo = user.create_repo(name)
-#    except :
-#        print('not possible')
+    for repo in repos:
+        print(repo.name)
+
+def create_repo():
+   try:
+        name = input('Give repo name :')
+        repo = user.create_repo(name)
+   except :
+        print('not possible')
 
 def user_info():
     id = input("user id : ")
@@ -54,16 +53,23 @@ def random():
 def main():
     op = input('operation :')
     
-#    if op == 'ls':
-#        view_repo()
-#    elif op == 'mkdir':
-#        create_repo()
+    if op == 'ls':
+        view_repo()
+        g = Github(username,passwd)
+        user = g.get_user()
+    elif op == 'mkdir':
+        create_repo()
+        g = Github(username,passwd)
+        user = g.get_user()
     if op == 'find user':
         user_info()
+        g=Github()
     elif op == 'find repo':
     	repo_info()
+    	g=Github()
     elif op == 'random':
     	random()
+    	g=Github()
     else:
         print('sorry')
 
