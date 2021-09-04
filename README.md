@@ -33,7 +33,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Using the telegram bot
 
- You can Use it by messaging<a href="https://t.me/GITtheTelegramBot">Gitthetelegrambot</a>
+ You can Use it by messaging <a href="https://t.me/GITtheTelegramBot">Gitthetelegrambot</a>
 
 
 ## Contributers
