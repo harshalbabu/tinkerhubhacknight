@@ -8,11 +8,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
-
-
-
-
+\n<!-- ABOUT THE PROJECT -->
 ## About The Project
 ### CLI Example
 ---
