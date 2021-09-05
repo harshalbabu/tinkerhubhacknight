@@ -19,7 +19,9 @@
 
 ### Telegram Example
 ---
-<img src="IMG-20210904-WA0151.jpg" alt="telegram Example">
+<img src="1.png" alt="telegram Example1">
+<img src="2.png" alt="telegram Example2">
+<img src="3.png" alt="telegram Example3">
 
 
 <!-- GETTING STARTED -->
